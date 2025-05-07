@@ -20,7 +20,7 @@ This experiment includes two models, IJLK and Supply Chain, both characterized b
 
  
 
-Firstly, I code the IJKLM model in Linopy. 
+Firstly, I code the IJKLM model in Linopy (run_linopy.py)
 
 But I encountered memory limitations when N = 600 or 1500. During analysis, I examined the generated “.lp” e “.mps” files for potential errors, but I found no errors.
 
